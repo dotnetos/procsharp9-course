@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnetos.Conference.WebApi", "src\Dotnetos.Conference.WebApi\Dotnetos.Conference.WebApi.csproj", "{B4E83B39-F40E-4BA3-8AD5-8BCE1D2D82FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E83B39-F40E-4BA3-8AD5-8BCE1D2D82FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E83B39-F40E-4BA3-8AD5-8BCE1D2D82FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E83B39-F40E-4BA3-8AD5-8BCE1D2D82FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E83B39-F40E-4BA3-8AD5-8BCE1D2D82FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {572CD699-5235-4295-9545-E9959677564C}
+	EndGlobalSection
+EndGlobal
