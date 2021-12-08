@@ -4,7 +4,7 @@ namespace InitOnly
 {
     /// <summary>
     /// TODO:
-    /// 1. Add missing constrain requirement to the <see cref="CarFactory.CreateCar"/> to use object initializer
+    /// 1. Add missing constrain requirement to the <see cref="ICar.CreateCar"/> to use object initializer
     /// 2. Implement ICar interface on the <see cref="Toyota"/> class
     /// 3. Implement car immutability by introducing `init` accessors to the properties
     /// </summary>
